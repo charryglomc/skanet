@@ -1,8 +1,8 @@
 # SkaNet: Split Kernel Attention Network 
 
-This is a PyTorch implementation of **Skanet** proposed by our paper "**SkaNet: Split Kernel Attention Network **".
+This is a PyTorch implementation of **SkaNet** proposed by our paper **"SkaNet: Split Kernel Attention Network"**.
 
-<img src="https://bhimgs.com/i/2023/04/20/12knzv8.png" style="zoom:50%;" />
+<img src ="accu.png" style="zoom:50%;" >
 
 Figure : **Compare with different vision backbones on ImageNet-1K validation set.** 
 
